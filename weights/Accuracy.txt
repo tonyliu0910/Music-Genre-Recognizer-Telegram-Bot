@@ -1,0 +1,2 @@
+EfficientNet-b0 : 67.72% (genre classifier)
+ResNet-18       : 97%    (language classifier)
