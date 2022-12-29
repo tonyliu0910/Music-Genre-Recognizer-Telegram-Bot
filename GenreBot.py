@@ -14,7 +14,7 @@ from lib.language_classifier import *
 from lib.efficientnet import *
 
 # token that we get from the BotFather
-TOKEN = "5818378398:AAE64aOj0wWSCvNqTtcTmHDttkcSt9dHejE"
+TOKEN = " {Your Telegram API Token} "
 
 device = get_default_device()
 print(device)
