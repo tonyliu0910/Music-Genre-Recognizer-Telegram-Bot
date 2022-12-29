@@ -1,3 +1,8 @@
+"""
+The following code is modified from https://github.com/pragnakalp/telegram-bot-python to meet our specs.
+"""
+
+
 from flask import Flask, request, Response
 import requests
 import json
