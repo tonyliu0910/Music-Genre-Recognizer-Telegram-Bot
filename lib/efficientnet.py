@@ -1,3 +1,11 @@
+"""
+
+The EfficientNet model is import from https://github.com/lukemelas/EfficientNet-PyTorch
+
+We apply transfer learning techniques such as modifying the classifier, and train the model with our custom dataset.
+
+"""
+
 import os
 import torch
 import torchvision
